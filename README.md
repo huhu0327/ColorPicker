@@ -7,8 +7,8 @@
 </ul>
 <br>
 <h2>ColorPicker</h2>
-<img src = "./Resources/p1.png" alt = "ColorPicker">
+<img src = "https://github.com/huhu0327/ColorPicker/blob/master/Resources/p1.PNG" alt = "ColorPicker">
 <h2>ColorPicker Expand</h2>
-<img src = "./Resources/p2.png" alt = "ColorPicker_Expand">
+<img src = "https://github.com/huhu0327/ColorPicker/blob/master/Resources/p2.PNG" alt = "ColorPicker_Expand">
 <h2>ColorPicker Info</h2>
-<img src = "./Resources/p3.png" alt = "ColorPicker_Info">
+<img src = "https://github.com/huhu0327/ColorPicker/blob/master/Resources/p3.PNG" alt = "ColorPicker_Info">

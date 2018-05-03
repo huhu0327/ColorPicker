@@ -238,6 +238,7 @@ namespace ColorPicker
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             focusButton.Focus();
+            TextColor();
         }
 
         private void bunifuFlatButton2_Click(object sender, EventArgs e)

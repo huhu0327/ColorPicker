@@ -4,6 +4,7 @@
   <li>Windos 10</li>
   <li>Visual Studio 2017</li>
   <li>Window Form C#</li>
+  <li>.NET Framework 4.6.1</li>
 </ul>
 <br>
 <h2>ColorPicker</h2>
